@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Assignment**
+title: Assignment
 ---
 
 * In groups of 8-9 you are to transform the classroom into your assigned location.
@@ -12,7 +12,7 @@ title: **Assignment**
 
 ---
 layout: post
-title: **Roles**
+title: Roles
 ---
 
 * Lighting designer - lighting
