@@ -1,6 +1,6 @@
 ---
 layout: post
-title: assignment
+title: **Assignment**
 ---
 
 * In groups of 8-9 you are to transform the classroom into your assigned location.
@@ -10,9 +10,10 @@ title: assignment
 
 -----
 
-
+---
 layout: post
-title: Roles 
+title: **Roles**
+---
 
 * Lighting designer - lighting
 * Sound designer - sound
@@ -22,6 +23,8 @@ title: Roles
 * Head carpenter - safety of all persons & objects
 * Operator/s - execution of all cues during showing
 * Director - actions of all persons (excluding SM & operator/s) during show
+
+* If your group has an extra member then you may choose to have 2 TD's or 2 SM's and split the work acordingly  
 
 
 
