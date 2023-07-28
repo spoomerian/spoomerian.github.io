@@ -1,5 +1,5 @@
 # Setup
-title: Dark Poole
+title: JR Drama stuff
 url: https://spoomerian.github.io/
 paginate: 1
 baseurl: ""
@@ -39,10 +39,4 @@ author:
 # Custom vars
 version: 3.0.0
 
-# Navbar page list
-nav:
-  - title: Blog
-    url: /archive
 
-  - title: About
-    url: /about
