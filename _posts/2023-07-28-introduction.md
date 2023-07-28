@@ -10,9 +10,7 @@ title: Assignment
 
 -----
 
----
-layout: post
-title: Roles
+Roles
 ---
 
 * Lighting designer - lighting
