@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Introduction
+title: assignment
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+* In groups of 8-9 you are to transform the classroom into your assigned location.
+* Your group will have 5 minutes alone in the room to arrange furniture, change lighting and pick sounds.
+* You can use anything in the room, including your group members to complete the transformation.
+
 
 -----
 
